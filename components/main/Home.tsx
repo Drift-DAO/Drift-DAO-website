@@ -36,13 +36,13 @@ const Home = () => {
 				</div>
 			</div>
 			<div className="flex justify-center">
-				<Image
+				<img
 					// className={styles.img}
 					src="/images/logo-white.png"
 					height="200"
 					width="522"
 					alt="load..."
-					priority={true}
+					// priority={true}
 					style={{ width: 'auto', height: 'auto' }}
 				/>
 			</div>

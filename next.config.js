@@ -14,7 +14,7 @@ const nextConfig = {
     path: ".",
   },
   trailingSlash: true,
-  assetPrefix: isProd ? "https://drift-dao-website-d9489f.spheron.app/" : "",
+  assetPrefix: isProd ? "https://drift-dao-website-d9489f.spheron.app/" : ".",
 };
 
 module.exports = nextConfig;
