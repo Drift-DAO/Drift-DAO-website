@@ -4,7 +4,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 
-const navbar = () => {
+const MyNavbar = () => {
 	const router = useRouter();
 	const onBoardDAO = () => {
 		// console.log('jai maata di');
@@ -51,4 +51,4 @@ const navbar = () => {
 	);
 };
 
-export default navbar;
+export default MyNavbar;
