@@ -16,12 +16,10 @@ const Contact = () => {
 							src="/images/Net.svg"
 							// fill={true}
 							alt="load.."
-							sizes="(max-width: 768px) 100vw,
-							  (max-width: 1200px) 50vw,
-							  33vw"
+							
 							style={{
-								maxWidth: '100%',
-								maxHeight: '100%',
+								width: '300px',
+								maxHeight: '300px',
 							}}
 						/>
 					</div>
