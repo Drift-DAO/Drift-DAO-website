@@ -10,7 +10,7 @@ const Contact = () => {
 				<div className="sm:flex items-center justify-center sm:h-screen mt-5">
 					<div
 						style={{ position: 'relative' }}
-						className="m-auto "
+						className="m-auto flex justify-center"
 					>
 						<img
 							src="/images/Net.svg"
