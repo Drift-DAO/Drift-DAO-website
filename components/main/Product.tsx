@@ -16,7 +16,7 @@ const Product = () => {
 						className="justify-center justify-items-center px-3"
 						// style={{ height: '80vh', width: '40vw' }}
 					>
-						<Image
+						<img
 							src="/images/app-drift-dao.png"
 							height={'600'}
 							width={'1012'}
